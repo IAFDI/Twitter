@@ -1,0 +1,33 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2880.1800@192dpi" x="1438" y="756" />
+    <location key="SettingsEditor.0.0.2880.1800@192dpi" x="708" y="46" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2880.1800@192dpi" x="754" y="506" />
+    <location key="deploy.picker.dialog.0.0.2880.1800@192dpi" x="1156" y="388" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2880.1800@192dpi" x="1400" y="174" />
+    <location key="AndroidCreateResourceFileDialog.0.0.2880.1800@192dpi" x="1232" y="46" />
+    <location key="IgnoreUnversionedDialog.0.0.2880.1800@192dpi" x="1498" y="582" />
+    <location key="idPropertyDimension.0.0.2880.1800@192dpi" x="1800" y="538" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.2880.1800@192dpi" x="1200" y="360" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.2880.1800@192dpi" x="926" y="364" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.2880.1800@192dpi" x="1564" y="448" />
+    <location key="chooseDestDirectoryDialog.0.0.2880.1800@192dpi" x="1050" y="424" />
+    <location key="find.popup.0.0.2880.1800@192dpi" x="1002" y="316" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.2880.1800@192dpi" x="1332" y="364" />
+    <location key="Github.ShareDialog.0.0.2880.1800@192dpi" x="916" y="630" />
+    <location key="Github.UntrackedFilesDialog.0.0.2880.1800@192dpi" x="976" y="326" />
+    <location key="IdeErrosDialog.0.0.2880.1800@192dpi" x="848" y="550" />
+    <size key="GridCell.Tab.0.left.0.0.2880.1800@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.2880.1800@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.2880.1800@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.2880.1800@192dpi" width="0" height="0" />
+    <size key="SettingsEditor.0.0.2880.1800@192dpi" width="2034" height="1396" />
+    <size key="javadoc.popup.0.0.2880.1800@192dpi" width="888" height="336" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.0.2880.1800@192dpi" width="1170" height="1144" />
+    <size key="GridCell.Tab.1.left.0.0.2880.1800@192dpi" width="1830" height="502" />
+    <size key="GridCell.Tab.1.center.0.0.2880.1800@192dpi" width="1830" height="502" />
+    <size key="GridCell.Tab.1.right.0.0.2880.1800@192dpi" width="1830" height="502" />
+    <size key="GridCell.Tab.1.bottom.0.0.2880.1800@192dpi" width="1830" height="502" />
+    <size key="find.popup.0.0.2880.1800@192dpi" width="1878" height="1254" />
+  </component>
+</application>

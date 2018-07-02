@@ -1,0 +1,22 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android.RunAndroidAvdManager@NavBarToolbar" count="1" />
+      <entry action="Android.SyncProject@NavBarToolbar" count="1" />
+      <entry action="Debug@NavBarToolbar" count="5" />
+      <entry action="Run@MainToolbar" count="18" />
+      <entry action="Run@NavBarToolbar" count="69" />
+      <entry action="Stop@NavBarToolbar" count="3" />
+      <entry action="com.android.tools.adtui.actions.DropDownAction@toolbar" count="1" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$GearAction@TOOL_WINDOW_TOOLBAR" count="5" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction@TOOL_WINDOW_TOOLBAR" count="1" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction@TOOL_WINDOW_TOOLBAR" count="3" />
+      <entry action="com.android.tools.idea.common.actions.SetZoomAction@NlRhsConfigToolbar" count="14" />
+      <entry action="com.android.tools.idea.configurations.TargetMenuAction@toolbar" count="1" />
+      <entry action="com.android.tools.idea.uibuilder.property.ViewAllPropertiesAction@TOOL_WINDOW_TOOLBAR" count="7" />
+      <entry action="com.android.tools.idea.uibuilder.property.editors.BrowsePanel$BrowseAction@unknown" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="2" />
+      <entry action="com.intellij.usages.impl.UsageViewImpl$MergeDupLines@UsageViewToolbar" count="1" />
+    </counts>
+  </component>
+</application>

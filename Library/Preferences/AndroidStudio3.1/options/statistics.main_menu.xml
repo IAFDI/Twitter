@@ -1,0 +1,22 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Clean Project" count="2" />
+      <entry path="Edit -&gt; Indent Selection" count="1" />
+      <entry path="Edit -&gt; Redo" count="3" />
+      <entry path="Edit -&gt; Unindent Line or Selection" count="2" />
+      <entry path="File -&gt; New -&gt; Activity -&gt; Empty Activity" count="2" />
+      <entry path="File -&gt; Open..." count="1" />
+      <entry path="File -&gt; Save All" count="5" />
+      <entry path="File -&gt; Settings Repository…" count="1" />
+      <entry path="File -&gt; Sync Project with Gradle Files" count="1" />
+      <entry path="Tools -&gt; AVD Manager" count="2" />
+      <entry path="Tools -&gt; SDK Manager" count="1" />
+      <entry path="VCS -&gt; Commit" count="1" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Project" count="2" />
+      <entry path="View -&gt; Toolbar" count="1" />
+    </counts>
+  </component>
+</application>
